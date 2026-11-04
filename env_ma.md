@@ -4,7 +4,6 @@ Human-Robot Collaborative Disassembly Line Balancing Problem (HRC-DLBP)
 Environment: Discrete-Event Simulation Engine with Dynamic Action Masking
 Description: Implements topological precedence, workstation capacity, spatial
              operator transit delay (t_m >= 1), and collision avoidance.
-Ref: Section 3 (Problem Formulation) & Section 4.1 (State/Action Modeling)
 ================================================================================
 """
 
